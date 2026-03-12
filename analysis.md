@@ -91,7 +91,7 @@ job:
 ## 6. 최종 산출물
 
 ### 제안서 사이트 URL
-https://blue-verse.github.io/proposal-bid-estimation-ai-poc/
+https://proposal-bid-estimation-ai-poc.pages.dev/
 
 ### 지원 금액
 2,700,000원 (VAT 별도)
@@ -129,7 +129,7 @@ AI 기반 문서 처리 및 데이터 자동화 분야에서 다수의 프로젝
 - PoC → MVP 확장을 고려한 모듈러 아키텍처 설계
 
 자세한 제안 내용은 아래 제안서 사이트에서 확인하실 수 있습니다.
-📎 https://blue-verse.github.io/proposal-bid-estimation-ai-poc/
+📎 https://proposal-bid-estimation-ai-poc.pages.dev/
 
 ### 포트폴리오 추천
 1. AI-Native Development Framework — RAG, PDF 구조화, 의미론적 검색
